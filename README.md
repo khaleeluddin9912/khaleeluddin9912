@@ -1,4 +1,4 @@
-<!-- Header --><h1 align="center">Hey there! I'm Mohammed Khaleel Uddin 👋</h1> <h3 align="center">Designing scalable systems | Automating pipelines | Driving reliability at scale</h3><!-- Social Links --><p align="center"> <a href="https://www.linkedin.com/in/khaleel-uddin-9634012a0/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="https://your-portfolio-website.com/" target="_blank"> <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages" /> </a> <a href="mailto:mohammed.khaleeluddin10@gmail.com"> <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<!-- Header --><h1 align="center">Hey there! I'm Mohammed Khaleel Uddin 👋</h1> <h3 align="center">Designing scalable systems | Automating pipelines | Driving reliability at scale</h3><!-- Social Links --><p align="center"> <a href="https://www.linkedin.com/in/khaleel-uddin-9634012a0/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="http://my-portfolio-website8-7aa32fa1165f30a8.s3-website.ap-south-1.amazonaws.com/#home/" target="_blank"> <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages" /> </a> <a href="mailto:mohammed.khaleeluddin10@gmail.com"> <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 ---
 
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2AA889&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+profile!;I+am+a+DevOps+Engineer;Cloud+Enthusiast+%7C+Automation+Expert;Problem+Solver+%7C+Infrastructure+Builder" alt="Typing SVG" /> </div>
@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-Hi, I'm Mohammed Khaleel Uddin — a passionate DevOps/SRE Engineer who thrives on solving complex infrastructure and deployment challenges. I enable teams to scale with confidence by building robust CI/CD pipelines, automating cloud infrastructure, and minimizing manual toil through smart observability.
+Hi, I'm Mohammed Khaleel Uddin — a passionate DevOps/Cloud Engineer who thrives on solving complex infrastructure and deployment challenges. I enable teams to scale with confidence by building robust CI/CD pipelines, automating cloud infrastructure, and minimizing manual toil through smart observability.
 
 - 🛠️ Proficient in: Linux, Shell Scripting, Python, Docker, Kubernetes, Jenkins, Git/GitHub, Terraform, Ansible, AWS
 - 🧠 Familiar with: Prometheus, Grafana, SonarQube, CI/CD Pipelines, Infrastructure as Code, Cloud Technologies
