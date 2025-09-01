@@ -1,9 +1,9 @@
 Hi there, I'm Mohammed Khaleel Uddin! 👋
-<div align="center">
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2AA889&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+profile!;DevOps+Engineer+%257C+Cloud+Enthusiast;Automation+Expert+%257C+Problem+Solver
+<div align="center"><!-- Fixed Typing Animation - Removed problematic encoding -->
+https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2AA889&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+profile!;DevOps+Engineer+%7C+Cloud+Enthusiast;Automation+Expert+%7C+Problem+Solver
 
-</div><h3 align="center">Building resilient systems | Automating pipelines | Driving reliability at scale</h3><!-- Social Links --><p align="center"> <a href="https://www.linkedin.com/in/yourprofile" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="https://yourportfolio.com" target="_blank"> <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages" /> </a> <a href="mailto:khaleeluddin.mohammed@example.com"> <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
-<!-- Typing SVG --><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&width=450&lines=Automate+everything...;Monitor+proactively...;Ship+with+confidence!" alt="Typing SVG" /> </p>
+</div><h3 align="center">Building resilient systems | Automating pipelines | Driving reliability at scale</h3><!-- Social Links --><p align="center"> <a href="https://www.linkedin.com/in/yourprofile" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://yourportfolio.com" target="_blank"> <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=react&logoColor=white" /> </a> <a href="mailto:khaleeluddin.mohammed@example.com"> <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<!-- Secondary Typing Animation --><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&width=450&lines=Automate+everything...;Monitor+proactively...;Ship+with+confidence!" alt="Typing SVG" /> </p>
 👨‍💻 About Me
 Hi, I'm Mohammed Khaleel Uddin, a passionate DevOps/SRE engineer who thrives on solving complex infrastructure and deployment challenges. I help teams scale confidently by building robust CI/CD pipelines, automating cloud infrastructure, and reducing manual toil through smart observability.
 
@@ -79,3 +79,16 @@ Cloud Platforms:
 🧘‍♂️ Believe in automation and infrastructure as code principles
 
 🧭 My goal: Become a top-tier DevOps engineer and contribute to open-source projects
+
+🏆 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=false" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=false" width="47%" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&hide_border=false" width="60%" /> </p>
+🔝 Top Contributed Repo
+https://github-contributor-stats.vercel.app/api?username=your-username&limit=5&theme=dark&combine_all_yearly_contributions=true
+
+✍️ Random Dev Quote
+https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
+
+🏆 GitHub Trophies
+https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=false&no-bg=false&margin-w=4
+
+<!-- Snake Game Animation --><div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </div>
