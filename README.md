@@ -43,7 +43,7 @@ Hi, I'm Mohammed Khaleel Uddin — a passionate DevOps/Cloud Engineer who thrive
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=khaleeluddin9912&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+ ![](https://github-profile-trophy.vercel.app/?username=khaleeluddin9912&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 <!-- Snake Game Repo View -->
