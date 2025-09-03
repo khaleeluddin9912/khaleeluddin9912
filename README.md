@@ -14,19 +14,6 @@ Hi, I'm Mohammed Khaleel Uddin — a passionate DevOps/Cloud Engineer who thrive
 
 ---
 
-### 🚀 What I do day to day
-
-- Build and maintain CI/CD pipelines across dev, stage, and prod environments
-- Troubleshoot deployments, tool failures, and environment-specific issues
-- Monitor system performance and optimize cloud resources
-- Write automation scripts with Bash and Python
-- Implement Infrastructure as Code using Terraform and Ansible
-- Containerize applications using Docker and orchestrate with Kubernetes
-- Set up monitoring and alerting systems with Prometheus and Grafana
-- Ensure code quality with SonarQube and other testing tools
-- Provide production support and troubleshooting for deployment issues
----
-
 🧰 Tools & Technologies
 <p align="center"> <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,jenkins,aws,terraform,ansible,python,git,prometheus,grafana" alt="Skill Icons"> </p>
 
