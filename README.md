@@ -22,8 +22,8 @@ Hi, I'm Mohammed Khaleel Uddin — a passionate DevOps/Cloud Engineer who thrive
 ### 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaleeluddin9912&show_icons=true&theme=dark&hide_border=false" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaleeluddin9912&theme=dark&hide_border=false" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khaleeluddin991&show_icons=true&theme=dark&hide_border=false" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaleeluddin991&theme=dark&hide_border=false" width="47%" />
 </p>
 
 ---
