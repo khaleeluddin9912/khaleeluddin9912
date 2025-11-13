@@ -1,4 +1,22 @@
-<!-- Header --><h1 align="center">Hi I'm Mohammed Khaleel Uddin 👋</h1> <h3 align="center">Designing scalable systems | Automating pipelines | Driving reliability at scale</h3><!-- Social Links --><p align="center"> <a href="https://www.linkedin.com/in/mohammed-khaleel-uddin-9634012a0/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> <a href=" https://khaleeluddin9912.github.io/my-portfolio/" target="_blank"> <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages" /> </a> <a href="mailto:mohammed.khaleeluddin10@gmail.com"> <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<!-- Header -->
+<h1 align="center">Hi I'm Mohammed Khaleel Uddin 👋</h1>
+<h3 align="center">Designing scalable systems | Automating pipelines | Driving reliability at scale</h3>
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-khaleel-uddin-9634012a0/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="https://khaleeluddin9912.github.io/my-portfolio/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages" />
+  </a>
+  
+  <a href="mailto:mohammed.khaleeluddin10@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2AA889&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+profile!;I+am+a+DevOps+Engineer;Cloud+Enthusiast+%7C+Automation+Expert;Problem+Solver+%7C+Infrastructure+Builder" alt="Typing SVG" /> </div>
