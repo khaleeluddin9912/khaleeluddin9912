@@ -24,7 +24,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:mohammed.khaleeluddin10@gmail.com)
 &nbsp;
 </div>
-<br/>
 
 ---
 
@@ -71,16 +70,10 @@ achievements:
 
 status: Open to DevOps · Cloud · SRE roles ✅
 ```
-
 <br clear="right"/>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════╗ -->
-<!-- ║           LIVE DEVOPS PIPELINE ANIMATION            ║ -->
-<!-- ╚══════════════════════════════════════════════════════╝ -->
-
-<div align="center">
 
 <!-- ╔══════════════════════════════════════════════════════╗ -->
 <!-- ║              TECH STACK — ANIMATED ICONS            ║ -->
