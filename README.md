@@ -264,53 +264,11 @@ Stack:  ECS Fargate · ALB · Terraform
 [![Deploy](https://img.shields.io/badge/Deploy-Blue%2FGreen-0080ff?style=flat-square)](https://github.com/khaleeluddin9912)
 
 </td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📊 AWS Reporting Automation
-
-> **24/7 Infrastructure Intelligence**
-
-```
-Stack:  Bash · AWS CLI · jq · Cron
-        EC2 · S3 · Lambda · IAM
-        JSON parsing · Error handling
-```
-
-**Key Wins:**
-- `−70%` manual reporting work eliminated
-- `24/7` automated scheduled cron jobs
-- Covers EC2 · S3 · Lambda · IAM inventory
-- `set -euo pipefail` production error handling
-
-[![Script](https://img.shields.io/badge/Script-Bash+%7C+AWS+CLI-4EAA25?style=flat-square&logo=gnu-bash)](https://github.com/khaleeluddin9912)
-
-</td>
 
 <td width="50%" valign="top">
 
-### 🌐 DevOps Portfolio
 
-> **Live on AWS S3 · Jenkins + ArgoCD Launch**
 
-```
-Stack:  HTML · CSS · JavaScript
-        AWS S3 Static Hosting
-        Jenkins · SonarQube · Grafana
-        Real dashboard animations
-```
-
-**Key Features:**
-- Jenkins CI dashboard simulation
-- SonarQube quality gate visualization  
-- Grafana monitoring panel live view
-- Blue/Green deploy success screen
-
-[![Live](https://img.shields.io/badge/Live-AWS_S3-FF9900?style=flat-square&logo=amazon-aws)](https://mku-portfoliocdf5de08cb3e5d9f.s3-website.ap-south-1.amazonaws.com/)
-
-</td>
 </tr>
 </table>
 
