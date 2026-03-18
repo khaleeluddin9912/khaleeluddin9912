@@ -168,16 +168,6 @@ Bash Scripting    ████████████████████�
 <!-- ║           GITHUB STATS — 3 CARD LAYOUT              ║ -->
 <!-- ╚══════════════════════════════════════════════════════╝ -->
 
-<div align="center">
-
-### 🏆 &nbsp;GitHub Analytics
-
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaleeluddin9912&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&border_radius=10&langs_count=8" />
-
-<br/><br/>
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khaleeluddin9912&show_icons=true&theme=dark&hide_border=false" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaleeluddin9912&theme=dark&hide_border=false" width="47%" />
@@ -193,77 +183,9 @@ Bash Scripting    ████████████████████�
 
 ### 🏅 &nbsp;GitHub Trophies
 
- ![](https://github-profile-trophy.vercel.app/?username=khaleeluddin9912&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+ <img src="https://github-profile-trophy.vercel.app/?username=khaleeluddin9912&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 
 </div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════╗ -->
-<!-- ║         FEATURED PROJECTS — CARD STYLE              ║ -->
-<!-- ╚══════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-### 🚀 &nbsp;Featured Projects
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-### ☸️ Hotstar on Amazon EKS
-
-> **Full DevSecOps Pipeline** · Production Grade
-
-```
-Stack:  EKS · Jenkins · ArgoCD · Terraform
-        SonarQube · OWASP · Trivy · Grafana
-        Docker · ECR · Prometheus · Nginx
-```
-
-**Key Wins:**
-- `−40%` deploy effort via full automation
-- `−60%` infra setup time with Terraform IaC
-- `+35%` issue detection from security scanning
-- `100%` zero-downtime with Blue/Green deploys
-
-[![Pipeline](https://img.shields.io/badge/CI%2FCD-Jenkins+→+ArgoCD-D24939?style=flat-square&logo=jenkins)](https://github.com/khaleeluddin9912)
-[![Security](https://img.shields.io/badge/Security-OWASP+%7C+Trivy-00ff88?style=flat-square)](https://github.com/khaleeluddin9912)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🐋 Strapi CMS on ECS Fargate
-
-> **Blue/Green Zero-Downtime Deployment**
-
-```
-Stack:  ECS Fargate · ALB · Terraform
-        GitHub Actions · CloudWatch
-        ECR · RDS · S3 · Blue/Green
-```
-
-**Key Wins:**
-- `−50%` downtime with Blue/Green strategy
-- `−30%` cloud cost via Fargate Spot pricing
-- Full `Terraform IaC` — single command deploy
-- `CloudWatch` dashboards + auto-alarms
-
-[![Infra](https://img.shields.io/badge/IaC-Terraform-7B42BC?style=flat-square&logo=terraform)](https://github.com/khaleeluddin9912)
-[![Deploy](https://img.shields.io/badge/Deploy-Blue%2FGreen-0080ff?style=flat-square)](https://github.com/khaleeluddin9912)
-
-</td>
-
-<td width="50%" valign="top">
-
-
-
-</tr>
-</table>
 
 ---
 
