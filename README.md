@@ -23,7 +23,6 @@
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:mohammed.khaleeluddin10@gmail.com)
 &nbsp;
-
 </div>
 <br/>
 
@@ -85,9 +84,6 @@ status: Open to DevOps · Cloud · SRE roles ✅
 <!-- ╚══════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-
-
----
 
 <!-- ╔══════════════════════════════════════════════════════╗ -->
 <!-- ║              TECH STACK — ANIMATED ICONS            ║ -->
@@ -186,8 +182,7 @@ Bash Scripting    ████████████████████�
 
 ### 🏆 &nbsp;GitHub Analytics
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=khaleeluddin9912&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00e5ff&text_color=c9d1d9&border_radius=10&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
+
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaleeluddin9912&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&border_radius=10&langs_count=8" />
 
 <br/><br/>
