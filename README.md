@@ -27,9 +27,6 @@
 <br/>
 
 ---
-<!-- ╔══════════════════════════════════════════════════════╗ -->
-<!-- ║              ANIMATED TYPING HEADLINE               ║ -->
-<!-- ╚══════════════════════════════════════════════════════╝ -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=900&color=00FF88&center=true&vCenter=true&width=900&height=60&lines=%3E+Welcome+to+my+GitHub+profile!;%3E+I+am+a+Cloud+%26+DevOps+Engineer;%3E+AWS+%7C+Kubernetes+%7C+Terraform+%7C+Jenkins;%3E+CI%2FCD+Pipeline+Architect;%3E+DevSecOps+%7C+OWASP+%7C+SonarQube+%7C+Trivy;%3E+Monitoring+with+Prometheus+%26+Grafana;%3E+Infrastructure+as+Code+Practitioner;%3E+Building+Systems+That+Never+Go+Down" alt="Typing SVG" />
@@ -187,9 +184,11 @@ Bash Scripting    ████████████████████�
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=khaleeluddin9912&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00e5ff&fire=ff6b35&currStreakLabel=00ff88&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=555555&border_radius=10" />
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khaleeluddin9912&show_icons=true&theme=dark&hide_border=false" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaleeluddin9912&theme=dark&hide_border=false" width="47%" />
+</p>
 
 ---
 
@@ -201,7 +200,7 @@ Bash Scripting    ████████████████████�
 
 ### 🏅 &nbsp;GitHub Trophies
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=khaleeluddin9912&theme=matrix&no-frame=true&no-bg=true&margin-w=6&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+ ![](https://github-profile-trophy.vercel.app/?username=khaleeluddin9912&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
