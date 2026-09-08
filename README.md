@@ -54,7 +54,7 @@ current_focus:
   - Infrastructure as Code with Terraform
 
 expertise:
-  cloud:      [AWS, GCP, Azure]
+  cloud:      [AWS, OCI, Azure]
   cicd:       [Jenkins, ArgoCD, GitHub Actions, Travis CI]
   containers: [Docker, Kubernetes, Helm, ECS, EKS]
   iac:        [Terraform, Ansible]
@@ -115,6 +115,7 @@ status: Open to DevOps · Cloud · SRE roles ✅
 
 ```
 AWS Cloud         ████████████████████░░  88%
+OCI Cloud         ████████████████████░░  88%
 Docker            █████████████████████░  90%
 Kubernetes        ████████████████░░░░░░  78%
 Terraform         ████████████████████░░  85%
