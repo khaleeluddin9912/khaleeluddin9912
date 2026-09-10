@@ -84,10 +84,9 @@ status: Open to DevOps · Cloud · SRE roles ✅
 ### 🛠️ &nbsp;Tech Stack & Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure&perline=10&theme=dark" alt="Cloud Skills"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48" alt="OCI"/>    
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,github,linux,bash,python,mysql,mongodb,nginx,grafana,prometheus,git,gitlab&perline=10&theme=dark" alt="Skills"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle Cloud"/>
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,github,linux,bash,python,mysql,mongodb,nginx,grafana,prometheus,git,gitlab&perline=10&theme=dark" alt="Skills"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle Cloud"/>
+
 
 
 
