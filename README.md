@@ -87,7 +87,7 @@ status: Open to DevOps · Cloud · SRE roles ✅
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,oci,docker,kubernetes,terraform,ansible,jenkins,github,linux,bash,python,mysql,mongodb,nginx,grafana,prometheus,git,gitlab&perline=10&theme=dark" alt="Skills"/>
 
-
+![OCI](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Travis CI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=flat-square&logo=travis-ci&logoColor=white)
