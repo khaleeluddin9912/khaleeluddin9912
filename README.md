@@ -86,6 +86,8 @@ status: Open to DevOps · Cloud · SRE roles ✅
 <div align="center">
      
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,oci,docker,kubernetes,terraform,ansible,jenkins,github,linux,bash,python,mysql,mongodb,nginx,grafana,prometheus,git,gitlab&perline=10&theme=dark" alt="Skills"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle Cloud"/>
+
 
 
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
