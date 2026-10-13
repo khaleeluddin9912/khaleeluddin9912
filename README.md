@@ -1,4 +1,3 @@
-
 <!-- ═══════════════════════════════════════════════════════════════════
      Mohammed Khaleel Uddin — GitHub Profile README
      DevOps Engineer · AWS · Kubernetes · Terraform · Jenkins
